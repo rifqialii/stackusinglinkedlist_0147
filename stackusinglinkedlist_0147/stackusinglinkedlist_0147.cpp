@@ -11,3 +11,6 @@ public:
 		next = NULL;
 	}
 };
+
+class Stack {
+private:
