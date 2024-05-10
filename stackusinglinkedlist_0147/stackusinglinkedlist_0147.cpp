@@ -17,3 +17,5 @@ private:
 	Node * top;
 public:
 	Stack() {
+		top = NULL;
+	}
